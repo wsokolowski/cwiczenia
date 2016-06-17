@@ -1,2 +1,1 @@
-dodaj zmiany
-coœ jeszcze
+README - wersja 1: Master
