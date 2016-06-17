@@ -1,1 +1,2 @@
 dodaj zmiany
+coœ jeszcze
